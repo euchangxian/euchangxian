@@ -1,4 +1,4 @@
-# Hi, I'm Chang Xian 🦆
+# Eu Chang Xian
 
 <div align="center">
   
@@ -31,20 +31,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euchangxian&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euchangxian&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=euchangxian&theme=tokyonight&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ### 🤝 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/chang-xian-eu)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/euchangxian)
 [<img src="https://img.shields.io/badge/Website-euchangxian.dev-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://euchangxian.dev)
