@@ -1,6 +1,5 @@
-# Eu Chang Xian
-
 <div align="center">
+# Eu Chang Xian
   
 ## [🌐 euchangxian.dev](https://euchangxian.dev)
 *I try to write :>*
