@@ -14,7 +14,9 @@
 
 **Industry Experience**
 
-**Tower Research Capital** (Intern) • **Squarepoint Capital** (Intern) • **GovTech** (Intern)
+- **Tower Research Capital**
+- **Squarepoint Capital**
+- **GovTech**
 
 ---
 
