@@ -12,7 +12,7 @@
 
 Computer Science at **National University of Singapore (NUS)**
 
-> *I try to write :>*
+> *I try to write blogs whenever I chance upon something interesting! :>*
 
 ## 💼 Experience
 
