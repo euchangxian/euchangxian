@@ -20,7 +20,6 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![English](https://img.shields.io/badge/English-Fluent-green?style=for-the-badge)
 ![Mandarin](https://img.shields.io/badge/Mandarin-Functional-yellow?style=for-the-badge)
