@@ -5,7 +5,7 @@
 
 ## 🎓 Computer Science @ National University of Singapore (NUS)
 
-## Industry Experience**
+## 🦆 Industry Experiences
 
 ### Tower Research Capital
 ### Squarepoint Capital
