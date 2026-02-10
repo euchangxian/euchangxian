@@ -27,4 +27,4 @@ Computer Science at **National University of Singapore (NUS)**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![English](https://img.shields.io/badge/English-Fluent-success?style=flat-square)
-![Mandarin](https://img.shields.io/badge/Mandarin-Functional-yellow?style=flat-square)
+![Mandarin](https://img.shields.io/badge/Mandarin-Fluent-success?style=flat-square)
