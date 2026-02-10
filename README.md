@@ -16,9 +16,9 @@ Computer Science at **National University of Singapore (NUS)**
 
 ## 💼 Experience
 
-- **Tower Research Capital** - Software Engineering Intern
-- **Squarepoint Capital** - Software Engineering Intern  
-- **GovTech Singapore** - Software Engineering Intern
+- **Tower Research Capital** - Software Engineer Intern
+- **Squarepoint Capital** - Software Engineer Intern  
+- **GovTech Singapore** - Software Engineer Intern
 
 ## 🛠️ Technical Skills
 
